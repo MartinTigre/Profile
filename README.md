@@ -67,6 +67,6 @@ IDEs: Microsoft Visual Studio, Visual Studio Code, WebStorm, NetBeans
 
 ## Contact
 
-- LinkedIn: [Ahmet Nejdet Meşeci](LinkedIn Profile URL)
+- LinkedIn: [[Ahmet Nejdet Meşeci](LinkedIn Profile URL)](https://www.linkedin.com/in/ahmet-nejdet-me%C5%9Feci-862880215)https://www.linkedin.com/in/ahmet-nejdet-me%C5%9Feci-862880215
 - Phone: +90 553 507 8285
 - Email: ahmetnejdetmeseci@gmail.com
